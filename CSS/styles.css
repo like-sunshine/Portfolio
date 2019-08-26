@@ -1,22 +1,28 @@
+body {
+  background-color: #484848;
+  font-family: 'Playfair Display', serif;
+}
+
 h1 {
-  color: 	#484848;
+  color: #FC6399;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
-.Projects {
-  color: 	#484848;
-  float: right
-}
-
-.About {
-  color: 	#484848;
-  float: right
+.column {
+  color: #FF97CC;
+  float: right;
+  height: 100%;
+  width: 315px;
 }
 
 .title {
-  color: blue;
-  background color: #484848;
+  color: #FF97CC;
 }
 
-img {
-  float: left;
+.right {
+  color: #FF97CC;
+}
+
+a {
+  color: #484848;
 }
