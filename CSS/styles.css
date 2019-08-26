@@ -6,15 +6,17 @@ body {
   margin: 50px;
 }
 
-h {
+h1 {
   color: #FC6399;
   font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
 }
 
 .title {
   color: #FF97CC;
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 30px
+  font-size: 30px;
+  margin-bottom: 15px;
 }
 
 .left {
@@ -31,6 +33,6 @@ a {
   height: 100%;
   width: 315px;
   border-left: 5px solid black;
-  padding: 100px 400px 500px 50px;
+  padding: 100px 400px 300px 50px;
   margin-left: 100px;
 }
