@@ -2,11 +2,27 @@ body {
   background-color: #2b2b2b;
   font-family: 'Playfair Display', serif;
   color: #FC6399;
+  padding: 50px;
+  margin: 50px;
 }
 
-h1 {
+h {
   color: #FC6399;
   font-family: 'Source Sans Pro', sans-serif;
+}
+
+.title {
+  color: #FF97CC;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 30px
+}
+
+.left {
+  color: #FF97CC;
+}
+
+a {
+  color: #FC6399;
 }
 
 .column {
@@ -15,19 +31,6 @@ h1 {
   height: 100%;
   width: 315px;
   border-left: 5px solid black;
-  padding: 300px 400px 500px 50px;
-  clear: both
-}
-
-.title {
-  color: #FF97CC;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
-.right {
-  color: #FF97CC;
-}
-
-a {
-  color: #FC6399;
+  padding: 100px 400px 500px 50px;
+  margin-left: 100px;
 }
