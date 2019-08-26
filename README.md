@@ -6,13 +6,15 @@
 
 ## Description
 
-_This is the beginning of a portfolio page with a couple of random repositories and a little bit about me. Mostly, it was an excuse to spend way too much time researching how color palettes work from a user accessibility standpoint._
+_This is the beginning of a portfolio page with a couple of random repositories and a little bit about me. Mostly, it was an excuse to spend way too much time researching how color palettes work from a user accessibility standpoint.
+
+You can see the finished project [here](https://like-sunshine.github.io/Portfolio/).
 
 ## Setup/Installation Requirements
 
 * _Clone the repository_
 * _Tada! Now you have a copy._
-* _ ‾\_(ツ)_/‾ _
+* ![Shrug emoji](https://blog.hubspot.com/hubfs/Shrug-Emoji.jpg)
 
 
 ## Known Bugs
